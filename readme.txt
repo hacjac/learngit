@@ -5,4 +5,3 @@ more.
 3.
 add1.
 add2.
-stupid.
